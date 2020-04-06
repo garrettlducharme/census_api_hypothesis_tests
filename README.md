@@ -5,8 +5,4 @@ Analyzing US census data from 2018 and comparing statistics from different regio
 Garrett DuCharme
 Mukesh Chaudhary
 
-### Goals
-
-### Files
-
 
